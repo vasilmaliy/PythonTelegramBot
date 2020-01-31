@@ -1,0 +1,76 @@
+[
+  {
+    "user_id": [
+      643930225,
+      688259721,
+      751066597,
+      651071486
+    ]
+  },
+  {
+    "chat_id": 643930225,
+    "message": [
+      {
+        "button_id": 597,
+        "file_id": "AgADAgADnqkxG0BmoEnPZNXryh6apHuutw4ABLiLb2A6dESxFnkAAgI"
+      },
+      {
+        "button_id": 598,
+        "file_id": "AgADAgAD-qgxGwzbmEmehQ3Onfj3hSW-tw4ABFN7W3U9NYuH-XgAAgI"
+      },
+      {
+        "button_id": 599,
+        "file_id": "AgADAgADoakxG0BmoEnk-DlV9aO532vAtw4ABDi22h30lRVhfHcAAgI"
+      },
+      {
+        "button_id": 600,
+        "file_id": "AgADAgADn6kxG0BmoEnHme5swHXSSJE0qw4ABHlGWrzoLWD82gUDAAEC"
+      },
+      {
+        "button_id": 601,
+        "file_id": "AgADAgADoqkxG0BmoElKh_GfAAFV0CuZS6sOAAQ4p5EEHn7c7tz4AgABAg"
+      },
+      {
+        "button_id": 682,
+        "file_id": "AgADAgADK6oxGzPhIEguCBeKMdOPoUtDhA8ABK4vl7HBa5ncaekBAAEC"
+      },
+      {
+        "button_id": 683,
+        "file_id": "AgADAgADLKoxGzPhIEiwNug2QnMZ0RNDXw8ABF8ijjlAQ5GV2gYGAAEC"
+      },
+      {
+        "button_id": 684,
+        "file_id": "AgADAgADLaoxGzPhIEgyvUcOwNObZfBTUw8ABMYaR_MhjVEcO3oEAAEC"
+      },
+      {
+        "button_id": 685,
+        "file_id": "AgADAgADVaoxG2PlIUjf90rVFgzbNcxFhA8ABP49y8WLWHYYVOYBAAEC"
+      },
+      {
+        "button_id": 740,
+        "file_id": "AgADAgADOawxGwsU-UrScZIOQspuaPaNwg8ABAEAAwIAA3kAAy_-AAIWBA"
+      },
+      {
+        "button_id": 771,
+        "file_id": "AgADAgADrawxG7ATgEtwxBk5edI9QcaQwg8ABAEAAwIAA3kAA9GaAQABFgQ"
+      }
+    ]
+  },
+  {
+    "chat_id": 688259721,
+    "message": []
+  },
+  {
+    "chat_id": 751066597,
+    "message": []
+  },
+  {
+    "chat_id": 651071486,
+    "message": [
+      {
+        "button_id": 640,
+        "file_id": "AgADAgADqasxG6FiQEv4Pubh771SGuisUQ8ABA1DAAFklzzNCtKbAwABAg"
+      }
+    ]
+  }
+]
